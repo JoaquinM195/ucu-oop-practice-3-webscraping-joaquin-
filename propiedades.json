@@ -1,0 +1,953 @@
+[
+  {
+    "nombre del departamento": "Montevideo",
+    "propiedades": [
+      {
+        "precio": 1100,
+        "tamano": 70,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_POCITOS_MONTEVIDEO_CW223700"
+      },
+      {
+        "precio": 3000,
+        "tamano": 140,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER_VENTA_PÉREZ_DEL_CASTILLO_APARTAMENTO_CARRASCO_MONTEVIDEO_CW230762"
+      },
+      {
+        "precio": 3200,
+        "tamano": 198,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__XOHA_BIENES_RAÍCES_APARTAMENTO_CARRASCO_MONTEVIDEO_CW236747"
+      },
+      {
+        "precio": 3500,
+        "tamano": 171,
+        "habitaciones": 4,
+        "link": "https://casasweb.com/ALQUILER__SAROKA_PROPIEDADES_APARTAMENTO_CARRASCO_MONTEVIDEO_CW240862"
+      },
+      {
+        "precio": 8300,
+        "tamano": 72,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__ARTIGAS_INMOBILIARIA_APARTAMENTO_AGUADA_MONTEVIDEO_CW148365"
+      },
+      {
+        "precio": 8500,
+        "tamano": 17,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER_VENTA_ASTRO_BIENES_RAÍCES_APARTAMENTO_CIUDAD_VIEJA_MONTEVIDEO_CW234176"
+      },
+      {
+        "precio": 10500,
+        "tamano": 24,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__SYG_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_PEÑAROL_MONTEVIDEO_CW131828"
+      },
+      {
+        "precio": 11000,
+        "tamano": 25,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_DECIA_HNOS_APARTAMENTO_UNIÓN_MONTEVIDEO_CW238638"
+      },
+      {
+        "precio": 11000,
+        "tamano": 23,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_DECIA_HNOS_APARTAMENTO_FLOR_DE_MAROÑAS_MONTEVIDEO_CW233697"
+      },
+      {
+        "precio": 11500,
+        "tamano": 14,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__RIAL_PROPIEDADES_APARTAMENTO_CORDÓN_MONTEVIDEO_CW224103"
+      },
+      {
+        "precio": 12000,
+        "tamano": 22,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__ESTUDIO_DELORENZO_APARTAMENTO_VILLA_ESPAÑOLA_MONTEVIDEO_CW238181"
+      },
+      {
+        "precio": 12000,
+        "tamano": 45,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__AL_INSTANTE_PROPIEDADES_APARTAMENTO_AGUADA_MONTEVIDEO_CW238698"
+      },
+      {
+        "precio": 12000,
+        "tamano": 30,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_DECIA_HNOS_APARTAMENTO_FLOR_DE_MAROÑAS_MONTEVIDEO_CW240558"
+      },
+      {
+        "precio": 12000,
+        "tamano": 38,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__AL_INSTANTE_PROPIEDADES_APARTAMENTO_AGUADA_MONTEVIDEO_CW240942"
+      },
+      {
+        "precio": 12000,
+        "tamano": 30,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_DECIA_HNOS_APARTAMENTO_UNIÓN_MONTEVIDEO_CW241039"
+      },
+      {
+        "precio": 12400,
+        "tamano": 28,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__AQUI_TECHO_INMOBILIARIA_APARTAMENTO_LA_TEJA_MONTEVIDEO_CW233613"
+      },
+      {
+        "precio": 12500,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GAMBERONI_INMOBILIARIA_APARTAMENTO_PEÑAROL_MONTEVIDEO_CW150339"
+      },
+      {
+        "precio": 13000,
+        "tamano": 35,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GAMBERONI_INMOBILIARIA_APARTAMENTO_PEÑAROL_MONTEVIDEO_CW240257"
+      },
+      {
+        "precio": 13950,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GAMBERONI_INMOBILIARIA_APARTAMENTO_PEÑAROL_MONTEVIDEO_CW234335"
+      },
+      {
+        "precio": 14000,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GAMBERONI_INMOBILIARIA_APARTAMENTO_PEÑAROL_MONTEVIDEO_CW228288"
+      },
+      {
+        "precio": 14000,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GALETTO_PROPIEDADES_APARTAMENTO_BUCEO_MONTEVIDEO_CW232102"
+      },
+      {
+        "precio": 14000,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GAMBERONI_INMOBILIARIA_APARTAMENTO_COLÓN_MONTEVIDEO_CW134236"
+      },
+      {
+        "precio": 14000,
+        "tamano": 46,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER_VENTA_GAMBERONI_INMOBILIARIA_APARTAMENTO_COLÓN_MONTEVIDEO_CW226571"
+      },
+      {
+        "precio": 14500,
+        "tamano": 38,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER_VENTA_VENDITTO_PROPIEDADES_APARTAMENTO_MALVIN_NORTE_MONTEVIDEO_PROYECTO_CW198177"
+      },
+      {
+        "precio": 15000,
+        "tamano": 30,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER_VENTA_GERARDO_OLEGGINI_PROPIEDADES_APARTAMENTO_MALVIN_MONTEVIDEO_CW199857"
+      },
+      {
+        "precio": 15000,
+        "tamano": 14,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__RIAL_PROPIEDADES_APARTAMENTO_CORDÓN_MONTEVIDEO_CW224259"
+      },
+      {
+        "precio": 15000,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_RUBÉN_RODRÍGUEZ_APARTAMENTO_PEREZ_CASTELLANOS_MONTEVIDEO_CW239010"
+      },
+      {
+        "precio": 15000,
+        "tamano": 30,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_ADPRO_APARTAMENTO_LA_BLANQUEADA_MONTEVIDEO_CW241036"
+      },
+      {
+        "precio": 15000,
+        "tamano": 30,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_ADPRO_APARTAMENTO_LA_BLANQUEADA_MONTEVIDEO_CW241037"
+      },
+      {
+        "precio": 15000,
+        "tamano": 30,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_ADPRO_APARTAMENTO_LA_BLANQUEADA_MONTEVIDEO_CW241040"
+      },
+      {
+        "precio": 15000,
+        "tamano": 60,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__MARCELO_NEVES_NEG__INMOBILIARIOS_APARTAMENTO_PEÑAROL_MONTEVIDEO_CW187594"
+      },
+      {
+        "precio": 15000,
+        "tamano": 35,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_DECIA_HNOS_APARTAMENTO_VILLA_ESPAÑOLA_MONTEVIDEO_CW241043"
+      },
+      {
+        "precio": 15500,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__ADYVEN_SC_APARTAMENTO_LA_BLANQUEADA_MONTEVIDEO_CW240992"
+      },
+      {
+        "precio": 16000,
+        "tamano": 45,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_LA_BLANQUEADA_MONTEVIDEO_CW193416"
+      },
+      {
+        "precio": 16000,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_CARRETAS_APARTAMENTO_CERRO_MONTEVIDEO_CW235808"
+      },
+      {
+        "precio": 16000,
+        "tamano": null,
+        "habitaciones": 4,
+        "link": "https://casasweb.com/ALQUILER__GAMBERONI_INMOBILIARIA_APARTAMENTO_CONCILIACIÓN_MONTEVIDEO_CW234972"
+      },
+      {
+        "precio": 16000,
+        "tamano": 48,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__ÉLITE_REAL_ESTATE_APARTAMENTO_COLÓN_MONTEVIDEO_CW235290"
+      },
+      {
+        "precio": 16500,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_LA_BLANQUEADA_MONTEVIDEO_CW205425"
+      },
+      {
+        "precio": 16500,
+        "tamano": 48,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__SYG_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_CIUDAD_VIEJA_MONTEVIDEO_CW224056"
+      },
+      {
+        "precio": 16500,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__ADYVEN_SC_APARTAMENTO_LA_BLANQUEADA_MONTEVIDEO_CW240991"
+      },
+      {
+        "precio": 16500,
+        "tamano": 37,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__MACARI_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_CERRITO_MONTEVIDEO_CW240396"
+      },
+      {
+        "precio": 16900,
+        "tamano": 30,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_PARQUE_RODÓ_MONTEVIDEO_CW214526"
+      },
+      {
+        "precio": 17000,
+        "tamano": 55,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_UNIÓN_MONTEVIDEO_CW198290"
+      },
+      {
+        "precio": 17000,
+        "tamano": 50,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_GOES_MONTEVIDEO_CW210006"
+      },
+      {
+        "precio": 17000,
+        "tamano": 7076,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER_VENTA_LB_PROPIEDADES_APARTAMENTO_MALVIN_NORTE_MONTEVIDEO_CW241145"
+      },
+      {
+        "precio": 17500,
+        "tamano": 29,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_CORDÓN_MONTEVIDEO_CW231404"
+      },
+      {
+        "precio": 17500,
+        "tamano": null,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_PARQUE_RODÓ_MONTEVIDEO_CW231455"
+      },
+      {
+        "precio": 17500,
+        "tamano": 46,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__MI_CASA_YA_INMOBILIARA_APARTAMENTO_CENTRO_MONTEVIDEO_CW227373"
+      },
+      {
+        "precio": 17500,
+        "tamano": 30,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_PUNTA_CARRETAS_MONTEVIDEO_CW226174"
+      },
+      {
+        "precio": 17500,
+        "tamano": 30,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__BRAÑAS_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_CENTRO_MONTEVIDEO_CW202588"
+      },
+      {
+        "precio": 17500,
+        "tamano": null,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__ARENYS_PROPIEDADES_APARTAMENTO_POCITOS_NUEVO_MONTEVIDEO_CW235229"
+      },
+      {
+        "precio": 17500,
+        "tamano": 20,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__ALEJANDRA_BASIGALUZ_PROPIEDADES_APARTAMENTO_CENTRO_MONTEVIDEO_CW238876"
+      }
+    ]
+  },
+  {
+    "nombre del departamento": "Canelones",
+    "propiedades": [
+      {
+        "precio": 2750,
+        "tamano": 220,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__SAROKA_PROPIEDADES_APARTAMENTO_BARRA_DE_CARRASCO_CANELONES_CW238242"
+      },
+      {
+        "precio": 9000,
+        "tamano": 50,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW199565"
+      },
+      {
+        "precio": 9500,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW171935"
+      },
+      {
+        "precio": 10000,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW227763"
+      },
+      {
+        "precio": 11000,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW232448"
+      },
+      {
+        "precio": 11800,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW237564"
+      },
+      {
+        "precio": 12000,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW238768"
+      },
+      {
+        "precio": 13000,
+        "tamano": 20,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW237579"
+      },
+      {
+        "precio": 14000,
+        "tamano": 30,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__ALL_IN_ONE_PROPIEDADES_APARTAMENTO_COLINAS_DE_SOLYMAR_CANELONES_CW229109"
+      },
+      {
+        "precio": 14000,
+        "tamano": 25,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__GERARDO_OLEGGINI_PROPIEDADES_APARTAMENTO_PASO_CARRASCO_CANELONES_CW194802"
+      },
+      {
+        "precio": 14500,
+        "tamano": 35,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__ÉLITE_REAL_ESTATE_APARTAMENTO_SAN_LUIS_CANELONES_CW238689"
+      },
+      {
+        "precio": 14500,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW240425"
+      },
+      {
+        "precio": 16000,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW238162"
+      },
+      {
+        "precio": 16000,
+        "tamano": 46,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW217623"
+      },
+      {
+        "precio": 16760,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW239119"
+      },
+      {
+        "precio": 17000,
+        "tamano": 50,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW196878"
+      },
+      {
+        "precio": 17500,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW240258"
+      },
+      {
+        "precio": 17600,
+        "tamano": 35,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__OBJETIVO_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_MÉDANOS_DE_SOLYMAR_CANELONES_CW193735"
+      },
+      {
+        "precio": 17600,
+        "tamano": 35,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__OBJETIVO_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_LOMAS_DE_SOLYMAR_CANELONES_CW193730"
+      },
+      {
+        "precio": 18000,
+        "tamano": 42,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__NIKO_FORTUNA_INMOBILIARIA_APARTAMENTO_EL_PINAR_CANELONES_CW236705"
+      },
+      {
+        "precio": 19500,
+        "tamano": 60,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW199221"
+      },
+      {
+        "precio": 19900,
+        "tamano": 36,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__SYG_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW201494"
+      },
+      {
+        "precio": 19900,
+        "tamano": 44,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__SYG_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW223017"
+      },
+      {
+        "precio": 20000,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LA_PAZ_CANELONES_CW240422"
+      },
+      {
+        "precio": 21000,
+        "tamano": 50,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GRUPO_AVANZA_APARTAMENTO_PANDO_CANELONES_CW235015"
+      },
+      {
+        "precio": 21500,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW238143"
+      },
+      {
+        "precio": 22000,
+        "tamano": 60,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__OFICINA_RAMIREZ_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW137096"
+      },
+      {
+        "precio": 22000,
+        "tamano": 30,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__NIKO_FORTUNA_INMOBILIARIA_APARTAMENTO_LOMAS_DE_SOLYMAR_CANELONES_CW238010"
+      },
+      {
+        "precio": 22000,
+        "tamano": 25,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__NIKO_FORTUNA_INMOBILIARIA_APARTAMENTO_MONTES_DE_SOLYMAR_CANELONES_CW239216"
+      },
+      {
+        "precio": 22500,
+        "tamano": null,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW233734"
+      },
+      {
+        "precio": 22500,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__CARÁMBULA_ADMINISTRACIONES_APARTAMENTO_LAS_PIEDRAS_CANELONES_CW238709"
+      },
+      {
+        "precio": 22900,
+        "tamano": 60,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_EL_PINAR_CANELONES_CW204515"
+      },
+      {
+        "precio": 24000,
+        "tamano": 60,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__CALIPSO_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_ATLÁNTIDA_CANELONES_CW240443"
+      },
+      {
+        "precio": 26000,
+        "tamano": 65,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__INNOVA_PROPIEDADES_APARTAMENTO_EL_PINAR_CANELONES_CW193866"
+      },
+      {
+        "precio": 27000,
+        "tamano": 38,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__VIRGINIA_MORALES_INMOBILIARIA_APARTAMENTO_PARQUE_MIRAMAR_CANELONES_CW227440"
+      },
+      {
+        "precio": 27000,
+        "tamano": 50,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__PAULA_CRUZ_REAL_ESTATE_APARTAMENTO_BARRA_DE_CARRASCO_CANELONES_CW240984"
+      },
+      {
+        "precio": 28000,
+        "tamano": 30,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__PÉREZ_DEL_CASTILLO_APARTAMENTO_BARRA_DE_CARRASCO_CANELONES_CW240341"
+      },
+      {
+        "precio": 29000,
+        "tamano": 58,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER_VENTA_CECILIA_CORVO_PROPIEDADES_APARTAMENTO_HARAS_DEL_LAGO_CANELONES_CW221705"
+      },
+      {
+        "precio": 750,
+        "tamano": 31,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER_VENTA_JUAN_PABLO_BLENGIO_APARTAMENTO_BARRA_DE_CARRASCO_CANELONES_CW237759"
+      },
+      {
+        "precio": 750,
+        "tamano": 30,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__CATERINA_BORDOLI_APARTAMENTO_PARQUE_MIRAMAR_CANELONES_CW229142"
+      },
+      {
+        "precio": 30000,
+        "tamano": null,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__VILABOA_PROPIEDADES_APARTAMENTO_PARQUE_MIRAMAR_CANELONES_CW225403"
+      },
+      {
+        "precio": 780,
+        "tamano": 50,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER_VENTA_CADENAS_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_BARRA_DE_CARRASCO_CANELONES_CW237982"
+      },
+      {
+        "precio": 32000,
+        "tamano": 30,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__PAULA_CRUZ_REAL_ESTATE_APARTAMENTO_PARQUE_MIRAMAR_CANELONES_CW231087"
+      },
+      {
+        "precio": 32500,
+        "tamano": 60,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__VILABOA_PROPIEDADES_APARTAMENTO_HARAS_DEL_LAGO_CANELONES_CW240529"
+      },
+      {
+        "precio": 32500,
+        "tamano": 60000,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__VILABOA_PROPIEDADES_APARTAMENTO_HARAS_DEL_LAGO_CANELONES_CW240281"
+      },
+      {
+        "precio": 33000,
+        "tamano": 60,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__VILABOA_PROPIEDADES_APARTAMENTO_HARAS_DEL_LAGO_CANELONES_CW238899"
+      },
+      {
+        "precio": 37000,
+        "tamano": 50,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__ACQUARONE_Y_CIBILS_APARTAMENTO_BARRA_DE_CARRASCO_CANELONES_CW189630"
+      },
+      {
+        "precio": 39000,
+        "tamano": 53,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__FERBER_Y_ZUMARAN_PROPIEDADES_APARTAMENTO_PARQUE_MIRAMAR_CANELONES_CW241055"
+      },
+      {
+        "precio": 1000,
+        "tamano": 50,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__VILABOA_PROPIEDADES_APARTAMENTO_PARQUE_MIRAMAR_CANELONES_CW225872"
+      },
+      {
+        "precio": 40000,
+        "tamano": 70,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__CALIPSO_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_ATLÁNTIDA_CANELONES_CW234185"
+      },
+      {
+        "precio": 1000,
+        "tamano": 100,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__TERRASUR_PROPIEDADES_APARTAMENTO_AEROPUERTO_CANELONES_CW240279"
+      },
+      {
+        "precio": 41000,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__TEJERA_Y_ASOCIADOS_APARTAMENTO_PARQUE_MIRAMAR_CANELONES_CW239226"
+      }
+    ]
+  },
+  {
+    "nombre del departamento": "Maldonado",
+    "propiedades": [
+      {
+        "precio": 4000,
+        "tamano": null,
+        "habitaciones": 4,
+        "link": "https://casasweb.com/ALQUILER_VENTA_KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___MARLY_MALDONADO_CW238800"
+      },
+      {
+        "precio": 5500,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PINARES_MALDONADO_CW241107"
+      },
+      {
+        "precio": 195,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_SOLANAS_MALDONADO_CW171072"
+      },
+      {
+        "precio": 270,
+        "tamano": 110,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER_VENTA_FINKO_REAL_ESTATE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW208585"
+      },
+      {
+        "precio": 350,
+        "tamano": null,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW227563"
+      },
+      {
+        "precio": 28000,
+        "tamano": 60,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__DIEGO_AGUILERA_INMOBILIARIA_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW240869"
+      },
+      {
+        "precio": 28000,
+        "tamano": 70,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__SCARPELLI_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_MALDONADO_MALDONADO_CW216845"
+      },
+      {
+        "precio": 800,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_CARRETAS_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW240580"
+      },
+      {
+        "precio": 800,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW238087"
+      },
+      {
+        "precio": 800,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___AIDY_GRILL_MALDONADO_CW238738"
+      },
+      {
+        "precio": 33500,
+        "tamano": 35,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_RED_APARTAMENTO_PUNTA_DEL_ESTE___AIDY_GRILL_MALDONADO_CW236045"
+      },
+      {
+        "precio": 850,
+        "tamano": null,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW231074"
+      },
+      {
+        "precio": 850,
+        "tamano": 75,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__GRUPO_AVANZA_APARTAMENTO_PUNTA_DEL_ESTE___LA_PASTORA_MALDONADO_CW215998"
+      },
+      {
+        "precio": 900,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PINARES_MALDONADO_CW236498"
+      },
+      {
+        "precio": 1000,
+        "tamano": 64,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_LIDER_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW207507"
+      },
+      {
+        "precio": 1100,
+        "tamano": 48,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___CANTEGRILL_MALDONADO_CW225388"
+      },
+      {
+        "precio": 1100,
+        "tamano": 53,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__NIKO_FORTUNA_INMOBILIARIA_APARTAMENTO_PUNTA_DEL_ESTE___CANTEGRILL_MALDONADO_CW234823"
+      },
+      {
+        "precio": 46000,
+        "tamano": 57,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__SCARPELLI_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW215726"
+      },
+      {
+        "precio": 46000,
+        "tamano": 57,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__SCARPELLI_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW215711"
+      },
+      {
+        "precio": 1200,
+        "tamano": 65,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER_VENTA_KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___LA_PASTORA_MALDONADO_CW233889"
+      },
+      {
+        "precio": 1200,
+        "tamano": null,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW233754"
+      },
+      {
+        "precio": 1200,
+        "tamano": 92,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__VERO_BRECCIA_STUDIO_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_PROYECTO_CW209085"
+      },
+      {
+        "precio": 1200,
+        "tamano": 100,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__FOLLE_PROPIEDADES_APARTAMENTO_PUNTA_BALLENA_MALDONADO_CW234828"
+      },
+      {
+        "precio": 1300,
+        "tamano": 69,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER_VENTA_INMOBILIARIA_LIDER_APARTAMENTO_PUNTA_DEL_ESTE___AIDY_GRILL_MALDONADO_CW221680"
+      },
+      {
+        "precio": 1300,
+        "tamano": 142,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__XOHA_BIENES_RAÍCES_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW192396"
+      },
+      {
+        "precio": 1300,
+        "tamano": 40,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER_VENTA_FERRANDO_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_PUNTA_DEL_ESTE___AIDY_GRILL_MALDONADO_CW219774"
+      },
+      {
+        "precio": 1300,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER_VENTA_KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___CANTEGRILL_MALDONADO_CW238770"
+      },
+      {
+        "precio": 1450,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER_VENTA_KW_RED_APARTAMENTO_PUNTA_DEL_ESTE___SAN_RAFAEL_MALDONADO_CW231871"
+      },
+      {
+        "precio": 1500,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW231755"
+      },
+      {
+        "precio": 1500,
+        "tamano": 62,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW230916"
+      },
+      {
+        "precio": 1500,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___LA_PASTORA_MALDONADO_CW236176"
+      },
+      {
+        "precio": 1600,
+        "tamano": 61,
+        "habitaciones": null,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___BRAVA_|_LOBOS_MALDONADO_PROYECTO_CW234907"
+      },
+      {
+        "precio": 1600,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW235084"
+      },
+      {
+        "precio": 1650,
+        "tamano": 90,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___CANTEGRILL_MALDONADO_CW211805"
+      },
+      {
+        "precio": 1650,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER_VENTA_KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW231062"
+      },
+      {
+        "precio": 1700,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW231224"
+      },
+      {
+        "precio": 1700,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW231233"
+      },
+      {
+        "precio": 1700,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW236373"
+      },
+      {
+        "precio": 1850,
+        "tamano": 72,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW230866"
+      },
+      {
+        "precio": 1900,
+        "tamano": 99,
+        "habitaciones": 1,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_LIDER_APARTAMENTO_PUNTA_DEL_ESTE___CANTEGRILL_MALDONADO_PROYECTO_CW207694"
+      },
+      {
+        "precio": 1900,
+        "tamano": 68,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___ARCOBALENO_MALDONADO_CW239190"
+      },
+      {
+        "precio": 2000,
+        "tamano": 90,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___CANTEGRILL_MALDONADO_CW231734"
+      },
+      {
+        "precio": 2300,
+        "tamano": 1,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW230868"
+      },
+      {
+        "precio": 2500,
+        "tamano": 120,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_MALDONADO_MALDONADO_CW230903"
+      },
+      {
+        "precio": 2500,
+        "tamano": 150,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_LIDER_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW207511"
+      },
+      {
+        "precio": 2500,
+        "tamano": 97,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__INMOBILIARIA_LIDER_APARTAMENTO_PUNTA_DEL_ESTE___BRAVA_|_LOBOS_MALDONADO_CW202636"
+      },
+      {
+        "precio": 2500,
+        "tamano": 100,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__ORTIZ_Y_ASOCIADOS_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW236831"
+      },
+      {
+        "precio": 2500,
+        "tamano": null,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__SANTESTEVAN_INMOBILIARIA_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW236925"
+      },
+      {
+        "precio": 2500,
+        "tamano": 100,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW240492"
+      },
+      {
+        "precio": 2900,
+        "tamano": 60,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__SLUCKIS_NEGOCIOS_INMOBILIARIOS_APARTAMENTO_PUNTA_DEL_ESTE___PLAYA_MANSA_MALDONADO_CW227840"
+      },
+      {
+        "precio": 3000,
+        "tamano": null,
+        "habitaciones": 2,
+        "link": "https://casasweb.com/ALQUILER__KW_ONE___PUNTA_DEL_ESTE_APARTAMENTO_PUNTA_DEL_ESTE___BRAVA_|_LOBOS_MALDONADO_CW235037"
+      },
+      {
+        "precio": 3500,
+        "tamano": 174,
+        "habitaciones": 3,
+        "link": "https://casasweb.com/ALQUILER__VILLEGAS_BIENES_RAICES_APARTAMENTO_PUNTA_DEL_ESTE___PENINSULA_MALDONADO_CW207644"
+      }
+    ]
+  }
+]
